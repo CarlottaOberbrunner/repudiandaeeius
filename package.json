@@ -1,0 +1,31 @@
+{
+  "name": "repudiandaeeius",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "HunterMills",
+  "license": "MIT",
+  "homepage": "https://github.com/CarlottaOberbrunner/repudiandaeeius.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlottaOberbrunner/repudiandaeeius.git"
+  },
+  "dependencies": {
+    "@types/graphql": "^14.5.0",
+    "@types/lodash": "^4.14.149",
+    "@types/lodash.orderby": "^4.6.6",
+    "@types/lodash.set": "^4.3.6",
+    "@types/memoizee": "^0.4.3",
+    "@types/node": "^13.5.0",
+    "@types/prettier": "^1.19.0",
+    "case": "^1.6.2",
+    "graphql": "^14.6.0",
+    "graphql-request": "^1.8.2",
+    "lodash.orderby": "^4.6.0",
+    "lodash.set": "^4.3.2",
+    "memoizee": "^0.4.14",
+    "prettier": "^1.19.1",
+    "ts-essentials": "^6.0.1",
+    "typescript": "^3.7.5"
+  }
+}
